@@ -1,0 +1,1 @@
+console.log("Hector" * 7);
